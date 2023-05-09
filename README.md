@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Maziarmajd
-- 👀 I’m interested in Coding , Movies,Books and Music and Coffee
-- 🌱 I prefer The Front-End 
-- 💞️ I’m looking to collaborate on everything new
-- 📫 How to reach me mail me on maziarmajd@gmail.com
+👋 "Hello, is this the real world?" I'm @Maziarmajd - a coding hacker who's seen the code of the Matrix and can manipulate it to create stunning front-end interfaces. I'm plugged into the digital realm and always ready to bend the rules of reality to create epic web projects that leave a lasting impression. If you're looking for a partner who can take you down the rabbit hole of coding and show you the way to the other side, look no further. Let's step out of the Matrix together and create a web experience that's out of this world! 💻🕶️🐇
 
 <!---
 Maziarmajd/Maziarmajd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
